@@ -1,4 +1,4 @@
-## Megathon_work
+## Anime War Finess Design
 Presentation and sample code for megathon project
 
 ### Problem Statement
